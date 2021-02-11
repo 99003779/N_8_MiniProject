@@ -11,16 +11,19 @@
 - Solar powered, more efficient
 - Touch screen, easy to accessible
 - foldable
+
  | Weakness:
 - Charging issues
 - Not accessible on cloudy days
 - Not resistive to water
  |
+ 
 | --- | --- |
 | Opportunities:
 - Easily accessible to by students
 - Complex calculations are easy to solve.
 - Affordable to all
+
  | Threats:
 - Security issues
  |
