@@ -1,1 +1,77 @@
+**HLR:**
 
+Addition
+
+Subtraction
+
+Multiplication
+
+Division
+
+Decimal upto 6 digits
+
+Percentage and fraction
+
+Code:
+
+#include \&lt;stdio.h\&gt;
+
+int main()
+{{
+   int x, y, z;
+
+  printf(&quot;Enter two numbers to add **\n**&quot;);
+   scanf(&quot;%d%d&quot;, &amp;x, &amp;y);
+
+  z = x + y;
+
+  printf(&quot;Sum of the numbers = %d **\n**&quot;, z);
+
+  return 0;
+}
+
+{
+
+**int** a,b,sub;
+
+//Read value of a
+
+printf(&quot;Enter the first no.: &quot;);
+
+scanf(&quot;%d&quot;,&amp;a);
+
+//Read value of b
+
+printf(&quot;Enter the second no.: &quot;);
+
+scanf(&quot;%d&quot;,&amp;b);
+
+//formula of subtraction
+
+sub= a-b;
+
+printf(&quot;subtract is = %d\n&quot;, sub);
+
+**return** 0;
+
+}{
+
+double a, b, product;
+
+printf(&quot;Enter two numbers: &quot;);
+
+scanf(&quot;%lf %lf&quot;, &amp;a, &amp;b);
+
+// Calculating product
+
+product = a \* b;
+
+// Result up to 2 decimal point is displayed using %.2lf
+
+printf(&quot;Product = %.2lf&quot;, product);
+
+return0;
+
+}
+
+}
