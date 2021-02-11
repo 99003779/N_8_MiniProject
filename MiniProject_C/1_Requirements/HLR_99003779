@@ -1,1 +1,68 @@
+**HLR:**
 
+- All arithmetic operations
+- Trigonometric functions
+- Permutation and combination function
+- In built e, Pi value
+- Decimals,
+- Trigonometric functions
+- nth root, power of n,
+- Fractions, percentage
+- Logarithms, exponentials
+- Binary conversions
+
+Code:
+
+// C program to demonstrate
+
+// working of binary arithmetic
+
+// operators
+
+#include \&lt;stdio.h\&gt;
+
+int main()
+
+{
+
+int main()
+
+float p,fracNume=12.0,fracDeno=32.0,d;
+
+p=(fracNume/fracDeno)\*100;
+
+printf(&quot; **Fraction**  to  **percentage**  = %f&quot;,p);
+
+return(0);
+
+}
+
+{
+
+int a = 10, b = 4, res;
+
+// printing a and b
+
+printf(&quot;a is %d and b is %d\n&quot;, a, b);
+
+res = a + b; // addition
+
+printf(&quot;a+b is %d\n&quot;, res);
+
+res = a - b; // subtraction
+
+printf(&quot;a-b is %d\n&quot;, res);
+
+res = a \* b; // multiplication
+
+printf(&quot;a\*b is %d\n&quot;, res);
+
+res = a / b; // division
+
+printf(&quot;a/b is %d\n&quot;, res);
+
+res = a % b; // modulus
+
+printf(&quot;a%%b is %d\n&quot;, res);
+
+return 0;}
