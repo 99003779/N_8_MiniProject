@@ -20,8 +20,7 @@
                                       #Test case for Numerical Convertion
   
   Binary to decimal
-     
-     ![Test case-page0001](https://user-images.githubusercontent.com/78890690/107762384-f3cd5c80-6d52-11eb-8b0b-0214e122248f.jpg)
+    
      
 ![Test case-page0002](https://user-images.githubusercontent.com/78890690/107762391-f5972000-6d52-11eb-87c8-aebd78df1ba9.jpg)
 
