@@ -15,4 +15,15 @@
       cosec
      
      if any function is not selected show message and ask to select a function 
+     
+     
+     Test case for Numerical Convertion
+     
+     ![Test case-page0001](https://user-images.githubusercontent.com/78890690/107762384-f3cd5c80-6d52-11eb-8b0b-0214e122248f.jpg)
+     
+![Test case-page0002](https://user-images.githubusercontent.com/78890690/107762391-f5972000-6d52-11eb-87c8-aebd78df1ba9.jpg)
+
+![Test case-page0002](https://user-images.githubusercontent.com/78890690/107762395-f6c84d00-6d52-11eb-91ab-e8c91875cfd4.jpg)
+
+     
       
