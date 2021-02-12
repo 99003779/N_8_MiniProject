@@ -1,1 +1,28 @@
+# Low Level Requirements for Trigonomatry
 
+- Calculator should be able to do conversion of all 6 trigonometry functions into each other using Angles Entities
+
+  1. Value of all the angles between 0 –360 degree
+  2. all the conditions of functions in different quadrants &amp; angle base conversion formulas
+  3. All 6 trigonometry functions
+  4. Angle conversion Formulas
+
+- Calculator should be able to do conversion of all 6 trigonometry functions into each other using Angles Entities
+
+  1. All trigonometry identities/formulas.
+  2. Able to use power, root arithmetic functions with trigon functions
+
+- Calculator should be able to do calculate angles form other given angles
+
+  1. Trigonometry tables containing all the value of angles between 0—90
+  2. All 6 trigonometry functions
+
+- Calculator should be able to calculate the sides &amp; Angles of right-angle triangle
+
+  1. for side calculation – one angle &amp; one side
+  2. for angle calculation – two sides
+
+- Calculator should be able to do basic arithmetic level trigonometry calculation
+
+  1. All basic rules of arithmetic calculation
+  2. BODMAS rule conditions
