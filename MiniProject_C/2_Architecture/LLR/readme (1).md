@@ -8,4 +8,10 @@ LLR
                                                        
                                                              LLR State for Numerical convertion
                                                              
-![LLR STATE](https://user-images.githubusercontent.com/78890690/107761647-bcaa7b80-6d51-11eb-876e-3fb854317dd3.png)                                                             
+![LLR STATE](https://user-images.githubusercontent.com/78890690/107761647-bcaa7b80-6d51-11eb-876e-3fb854317dd3.png)       
+
+
+
+
+                                                             LLR Class for Numerical Convertion
+![LLR_Class](https://user-images.githubusercontent.com/78890690/107762044-60942700-6d52-11eb-924b-734445b4930f.png)
