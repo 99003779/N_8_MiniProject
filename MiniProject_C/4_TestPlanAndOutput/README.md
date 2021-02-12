@@ -1,3 +1,18 @@
 # test plan and test ouput
 
 * Add all the test paln and test output related files under thsi folder
+
+# Test Cases for Trigonometry Functions
+
+  - Test Case for selection Trigonometry functions
+  
+    1. Only 6 functions are allowed to choose from
+      sin
+      cos
+      tan
+      sec
+      tan
+      cosec
+     
+     if any function is not selected show message and ask to select a function 
+      
