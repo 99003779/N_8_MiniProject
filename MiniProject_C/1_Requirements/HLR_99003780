@@ -1,0 +1,10 @@
+High level Requirements (HLR):
+
+1. To build a feature of Converting Numbers from one type to other (Number convertion) in a smart software calculator.
+
+Low level Requirements(LLR):
+
+1. Binary to decimal.
+2. Binary to octal.
+3. Decimal to octal.
+4. Range of numbers
