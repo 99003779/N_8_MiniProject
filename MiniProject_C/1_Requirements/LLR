@@ -1,5 +1,14 @@
 # Low Level Requirements for Trigonomatry
 
+
+- Able to calculate the value of different trigono functions
+  sin
+  cos
+  tan
+  sec
+  cosec
+  cot
+  
 - Calculator should be able to do conversion of all 6 trigonometry functions into each other using Angles Entities
 
   1. Value of all the angles between 0 –360 degree
