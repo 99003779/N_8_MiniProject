@@ -1,0 +1,28 @@
+Low level Requirements :
+
+1. Calculator can convert numbers from Binary to decimal.
+
+- Enter valid data of binary format.
+- Numbers should be in between the valid range.
+- Binary numbers are converted to decimals.
+- Decimal numbers are displayed.
+- Then display returns to initial screen.
+- If range is not valid it displays "In valid Range".
+
+2. Calculator can convert numbers from Decimal to Octal
+
+- Enter valid input of Decimal format.
+- Numbers should be in between valid range.
+- Decimal numbers are converted to octal.
+- Octal numbers are displayed.
+- Then display returns to initial screen.
+- If range is not valid it displays "In valid Range".
+
+3. Calculator can convert numbers from Binary to Octal.
+
+- Enter valid input of Binary format.
+- Numbers should be in between the valid range.
+- Binary numbers are converted to octal.
+- Octal numbers are displayed.
+- Then display returns to initial screen.
+- If range is not valid it displays "In valid Range".
