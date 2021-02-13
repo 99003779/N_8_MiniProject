@@ -15,3 +15,8 @@ LLR
 
                                                              LLR Class for Numerical Convertion
 ![LLR_Class](https://user-images.githubusercontent.com/78890690/107762044-60942700-6d52-11eb-924b-734445b4930f.png)
+
+                                                            #LLR Structural class diagram
+                                                            
+![structural   Class New LLR ](https://user-images.githubusercontent.com/78869826/107835298-ff566d00-6dbe-11eb-837f-4934471d7a9a.png)
+
