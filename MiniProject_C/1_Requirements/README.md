@@ -44,3 +44,4 @@ How: End user friendly and easily accessible.
 **HLR Features:-** The designed product will be having all the necessary features required by the undergraduates and postgraduates students including scholars. The High level requirements include arithmetic operations, decimals, trigonometric functions, nth root, power of n, fractions, percentage, logarithms, exponentials, binary conversions etc.
 
 **LLR Features:-** The low level requirements of the product includes addition, subtraction, multiplication, division under arithmetic operation, decimal upto 6 digits, trigonometric functions with square root and radians.
+
